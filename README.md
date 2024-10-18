@@ -5,9 +5,9 @@ A React-based user dashboard that allows users to view their enrolled courses, m
 ## Features
 
 - **User Dashboard**: View currently enrolled courses with instructor details.
-- **Course Catalog**: Option to add new courses by navigating to the course catalog page.
+- **Course Catalog**: Navigating to the course catalog page.
 - **Lesson Access**: Navigate directly to the lessons of an enrolled course.
-- **All Enrolled Courses**: Display a list of all courses the user is enrolled in, both current and previous.
+- **All Enrolled Courses**: Display a list of all courses the user is enrolled in.
 - **Responsive UI**: Optimized for mobile, tablet, and desktop viewports.
   
 vercel link: https://online-learning-platform-seven.vercel.app/
